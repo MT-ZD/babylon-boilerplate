@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "esNext",
+        "target": "es5",
+        "moduleResolution": "node",
+        "importHelpers": true,
+        "noImplicitAny": true
+    }
+}
